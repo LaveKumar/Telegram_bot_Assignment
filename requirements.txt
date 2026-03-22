@@ -1,0 +1,18 @@
+# Bot
+python-telegram-bot==21.6
+
+# Vision LLM (via Ollama REST API)
+httpx>=0.27.0
+
+# Embeddings + semantic cache
+sentence-transformers>=3.0.0     # all-MiniLM-L6-v2 (~22 MB, CPU-friendly)
+numpy>=1.26.0
+
+# Vector storage
+sqlite-vec>=0.1.1                # sqlite extension for vector search
+
+# Local debug UI
+gradio>=4.40.0
+
+# Image handling (for Gradio UI)
+Pillow>=10.0.0
