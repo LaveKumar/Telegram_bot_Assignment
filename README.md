@@ -144,3 +144,11 @@ vision_bot/
 | Semantic caption caching (sqlite-vec) | `cache.py` → `get_by_embedding()` |
 | `/summarize` command | `bot.py` → `cmd_summarize()` |
 | Gradio local debug UI | `gradio_ui.py` |
+
+---
+
+
+## Sample Output: 
+https://shorturl.at/NfXij
+https://shorturl.at/Zld9b
+https://shorturl.at/OjAN4
